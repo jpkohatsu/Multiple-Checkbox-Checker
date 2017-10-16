@@ -1,1 +1,1 @@
-# Multiple-Checkboxes-Checker
+# Multiple-Checkbox-Checker
